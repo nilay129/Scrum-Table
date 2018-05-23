@@ -1,0 +1,18 @@
+c:\users\ogretmen\documents\visual studio 2013\Projects\SinanScrumTable\SinanScrumTable\bin\x64\Debug\SinanScrumTable.exe.config
+c:\users\ogretmen\documents\visual studio 2013\Projects\SinanScrumTable\SinanScrumTable\obj\x64\Debug\SinanScrumTable.Form1.resources
+c:\users\ogretmen\documents\visual studio 2013\Projects\SinanScrumTable\SinanScrumTable\obj\x64\Debug\SinanScrumTable.Properties.Resources.resources
+c:\users\ogretmen\documents\visual studio 2013\Projects\SinanScrumTable\SinanScrumTable\obj\x64\Debug\SinanScrumTable.csproj.GenerateResource.Cache
+c:\users\ogretmen\documents\visual studio 2013\Projects\SinanScrumTable\SinanScrumTable\bin\x64\Debug\SinanScrumTable.exe
+c:\users\ogretmen\documents\visual studio 2013\Projects\SinanScrumTable\SinanScrumTable\bin\x64\Debug\SinanScrumTable.pdb
+c:\users\ogretmen\documents\visual studio 2013\Projects\SinanScrumTable\SinanScrumTable\obj\x64\Debug\SinanScrumTable.exe
+c:\users\ogretmen\documents\visual studio 2013\Projects\SinanScrumTable\SinanScrumTable\obj\x64\Debug\SinanScrumTable.pdb
+c:\users\ogretmen\documents\visual studio 2013\Projects\SinanScrumTable\SinanScrumTable\obj\x64\Debug\SinanScrumTable.csprojResolveAssemblyReference.cache
+C:\Users\Ogretmen\Desktop\SinanScrumTable\SinanScrumTable\bin\x64\Debug\SinanScrumTable.exe.config
+C:\Users\Ogretmen\Desktop\SinanScrumTable\SinanScrumTable\obj\x64\Debug\SinanScrumTable.exe
+C:\Users\Ogretmen\Desktop\SinanScrumTable\SinanScrumTable\obj\x64\Debug\SinanScrumTable.pdb
+C:\Users\Ogretmen\Desktop\SinanScrumTable\SinanScrumTable\bin\x64\Debug\SinanScrumTable.exe
+C:\Users\Ogretmen\Desktop\SinanScrumTable\SinanScrumTable\bin\x64\Debug\SinanScrumTable.pdb
+C:\Users\Ogretmen\Desktop\SinanScrumTable\SinanScrumTable\obj\x64\Debug\SinanScrumTable.csprojResolveAssemblyReference.cache
+C:\Users\Ogretmen\Desktop\SinanScrumTable\SinanScrumTable\obj\x64\Debug\SinanScrumTable.Form1.resources
+C:\Users\Ogretmen\Desktop\SinanScrumTable\SinanScrumTable\obj\x64\Debug\SinanScrumTable.Properties.Resources.resources
+C:\Users\Ogretmen\Desktop\SinanScrumTable\SinanScrumTable\obj\x64\Debug\SinanScrumTable.csproj.GenerateResource.Cache
